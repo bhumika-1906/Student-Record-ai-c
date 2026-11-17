@@ -1,0 +1,356 @@
+OUTPUTS - KEY RESULTS 
+
+OUTPUT 1:
+All Student Records
+SAP ID:              50000101
+Roll number:         201
+Name:                Aarav Sharma
+Phone number:        +919876543210
+Email ID:            aarav@gmail.com
+Year:                1
+Current Semester:    1
+
+SGPA Details:
+Semester 1: 8.50
+Semester 2: Not available
+Semester 3: Not available
+Semester 4: Not available
+Semester 5: Not available
+Semester 6: Not available
+Semester 7: Not available
+Semester 8: Not available
+
+CGPA: 8.50
+Academic Advice: Good performance - Try focusing on areas with lower SGPA.
+SAP ID:              50000102
+Roll number:         202
+Name:                Bhumika Sen
+Phone number:        +918765432109
+Email ID:            bhumika@gmail.com
+Year:                2
+Current Semester:    3
+
+SGPA Details:
+Semester 1: 9.20
+Semester 2: 8.80
+Semester 3: 9.40
+Semester 4: Not available
+Semester 5: Not available
+Semester 6: Not available
+Semester 7: Not available
+Semester 8: Not available
+
+CGPA: 9.13
+Academic Advice: Excellent performance - Maintain your current study pattern!
+SAP ID:              50000103
+Roll number:         203
+Name:                Chaitanya Roy
+Phone number:        +917654321098
+Email ID:            chaitanya@gmail.com
+Year:                2
+Current Semester:    3
+
+SGPA Details:
+Semester 1: 7.20
+Semester 2: 7.80
+Semester 3: 7.50
+Semester 4: Not available
+Semester 5: Not available
+Semester 6: Not available
+Semester 7: Not available
+Semester 8: Not available
+
+CGPA: 7.50
+Academic Advice: Good performance - Try focusing on areas with lower SGPA.
+SAP ID:              50000104
+Roll number:         204
+Name:                Devika Patel
+Phone number:        +916543210987
+Email ID:            devika@gmail.com
+Year:                3
+Current Semester:    5
+
+SGPA Details:
+Semester 1: 5.40
+Semester 2: 5.80
+Semester 3: 4.80
+Semester 4: 5.20
+Semester 5: 5.60
+Semester 6: Not available
+Semester 7: Not available
+Semester 8: Not available
+
+CGPA: 5.36
+Academic Advice: Needs improvement - Dedicate more hours and review core concepts.
+SAP ID:              50000105
+Roll number:         205
+Name:                Eshaan Verma
+Phone number:        +915432109876
+Email ID:            eshaan@gmail.com
+Year:                4
+Current Semester:    7
+
+SGPA Details:
+Semester 1: 4.20
+Semester 2: 4.50
+Semester 3: 4.00
+Semester 4: 3.80
+Semester 5: 4.10
+Semester 6: 4.30
+Semester 7: 4.00
+Semester 8: Not available
+
+CGPA: 4.13
+Academic Advice: Requires immediate attention - Please connect with your advisor. 
+
+OUTPUT 2:
+Student record added successfully!
+
+OUTPUT 3:
+Student record added successfully!
+
+OUTPUT 4:
+Student record found!
+SAP ID:              50000102
+Roll number:         202
+Name:                Bhumika Sen
+Phone number:        +918765432109
+Email ID:            bhumika@gmail.com
+Year:                2
+Current Semester:    3
+
+SGPA Details:
+Semester 1: 9.20
+Semester 2: 8.80
+Semester 3: 9.40
+Semester 4: Not available
+Semester 5: Not available
+Semester 6: Not available
+Semester 7: Not available
+Semester 8: Not available
+
+CGPA: 9.13
+Academic Advice: Excellent performance - Maintain your current study pattern!
+
+OUTPUT 5:
+ Average CGPA by Year
+Year 1: Average CGPA = 8.95
+Year 2: Average CGPA = 8.32
+Year 3: Average CGPA = 5.36
+Year 4: Average CGPA = 4.13
+
+OUTPUT 6: 
+Student record deleted successfully!
+
+OUTPUT 7:  
+ Records sorted by increasing SAP ID
+
+All Student Records
+SAP ID:              50000101
+Roll number:         201
+Name:                Aarav Sharma
+Phone number:        +919876543210
+Email ID:            aarav@gmail.com
+Year:                1
+Current Semester:    1
+
+SGPA Details:
+Semester 1: 8.50
+Semester 2: Not available
+Semester 3: Not available
+Semester 4: Not available
+Semester 5: Not available
+Semester 6: Not available
+Semester 7: Not available
+Semester 8: Not available
+
+CGPA: 8.50
+Academic Advice: Good performance - Try focusing on areas with lower SGPA.
+SAP ID:              50000102
+Roll number:         202
+Name:                Bhumika Sen
+Phone number:        +918765432109
+Email ID:            bhumika@gmail.com
+Year:                2
+Current Semester:    3
+
+SGPA Details:
+Semester 1: 9.20
+Semester 2: 8.80
+Semester 3: 9.40
+Semester 4: Not available
+Semester 5: Not available
+Semester 6: Not available
+Semester 7: Not available
+Semester 8: Not available
+
+CGPA: 9.13
+Academic Advice: Excellent performance - Maintain your current study pattern!
+SAP ID:              50000103
+Roll number:         203
+Name:                Chaitanya Roy
+Phone number:        +917654321098
+Email ID:            chaitanya@gmail.com
+Year:                2
+Current Semester:    3
+
+SGPA Details:
+Semester 1: 7.20
+Semester 2: 7.80
+Semester 3: 7.50
+Semester 4: Not available
+Semester 5: Not available
+Semester 6: Not available
+Semester 7: Not available
+Semester 8: Not available
+
+CGPA: 7.50
+Academic Advice: Good performance - Try focusing on areas with lower SGPA.
+SAP ID:              50000105
+Roll number:         205
+Name:                Eshaan Verma
+Phone number:        +915432109876
+Email ID:            eshaan@gmail.com
+Year:                4
+Current Semester:    7
+
+SGPA Details:
+Semester 1: 4.20
+Semester 2: 4.50
+Semester 3: 4.00
+Semester 4: 3.80
+Semester 5: 4.10
+Semester 6: 4.30
+Semester 7: 4.00
+Semester 8: Not available
+
+CGPA: 4.13
+Academic Advice: Requires immediate attention - Please connect with your advisor.
+SAP ID:              50000106
+Roll number:         206
+Name:                Kabir Mehta
+Phone number:        +919999888877
+Email ID:            kabir@gmail.com
+Year:                1
+Current Semester:    2
+
+SGPA Details:
+Semester 1: 9.20
+Semester 2: 9.60
+Semester 3: Not available
+Semester 4: Not available
+Semester 5: Not available
+Semester 6: Not available
+Semester 7: Not available
+Semester 8: Not available
+
+CGPA: 9.40
+Academic Advice: Excellent performance - Maintain your current study pattern!
+
+OUTPUT 8: 
+ Records sorted by increasing Name
+
+All Student Records 
+SAP ID:              50000101
+Roll number:         201
+Name:                Aarav Sharma
+Phone number:        +919876543210
+Email ID:            aarav@gmail.com
+Year:                1
+Current Semester:    1
+
+SGPA Details:
+Semester 1: 8.50
+Semester 2: Not available
+Semester 3: Not available
+Semester 4: Not available
+Semester 5: Not available
+Semester 6: Not available
+Semester 7: Not available
+Semester 8: Not available
+
+CGPA: 8.50
+Academic Advice: Good performance - Try focusing on areas with lower SGPA.
+SAP ID:              50000102
+Roll number:         202
+Name:                Bhumika Sen
+Phone number:        +918765432109
+Email ID:            bhumika@gmail.com
+Year:                2
+Current Semester:    3
+
+SGPA Details:
+Semester 1: 9.20
+Semester 2: 8.80
+Semester 3: 9.40
+Semester 4: Not available
+Semester 5: Not available
+Semester 6: Not available
+Semester 7: Not available
+Semester 8: Not available
+
+CGPA: 9.13
+Academic Advice: Excellent performance - Maintain your current study pattern!
+SAP ID:              50000103
+Roll number:         203
+Name:                Chaitanya Roy
+Phone number:        +917654321098
+Email ID:            chaitanya@gmail.com
+Year:                2
+Current Semester:    3
+
+SGPA Details:
+Semester 1: 7.20
+Semester 2: 7.80
+Semester 3: 7.50
+Semester 4: Not available
+Semester 5: Not available
+Semester 6: Not available
+Semester 7: Not available
+Semester 8: Not available
+
+CGPA: 7.50
+Academic Advice: Good performance - Try focusing on areas with lower SGPA.
+SAP ID:              50000105
+Roll number:         205
+Name:                Eshaan Verma
+Phone number:        +915432109876
+Email ID:            eshaan@gmail.com
+Year:                4
+Current Semester:    7
+
+SGPA Details:
+Semester 1: 4.20
+Semester 2: 4.50
+Semester 3: 4.00
+Semester 4: 3.80
+Semester 5: 4.10
+Semester 6: 4.30
+Semester 7: 4.00
+Semester 8: Not available
+
+CGPA: 4.13
+Academic Advice: Requires immediate attention - Please connect with your advisor.
+SAP ID:              50000106
+Roll number:         206
+Name:                Kabir Mehta
+Phone number:        +919999888877
+Email ID:            kabir@gmail.com
+Year:                1
+Current Semester:    2
+
+SGPA Details:
+Semester 1: 9.20
+Semester 2: 9.60
+Semester 3: Not available
+Semester 4: Not available
+Semester 5: Not available
+Semester 6: Not available
+Semester 7: Not available
+Semester 8: Not available
+
+CGPA: 9.40
+Academic Advice: Excellent performance - Maintain your current study pattern!
+
+OUTPUT 9:
+Exiting program. Thank you!
