@@ -178,7 +178,7 @@ void displayStudent(Student s)
     }
     printf("\nCGPA: %.2f\n", cgpa);
     
-    // Personalized academic advice based on CGPA
+    // Personalized academic advice based on CGPA of students 
     printf("Academic Advice: ");
     if (cgpa >= 9.0f) {
         printf("Excellent performance - Maintain your current study pattern!\n");
