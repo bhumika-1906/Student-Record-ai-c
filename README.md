@@ -44,7 +44,7 @@ Student-Record-ai-c/
 ├── README.md
 └── tests/
     ├── sample_input.txt
-    └── expected_output.txt
+    └── sample_output.txt
 ```
 
 ## Requirements
@@ -104,3 +104,4 @@ Refer to ` AI_USAGE_LOG.md ` for the prompts and ideas used.
 
 ## BY
 BHUMIKA
+590036739
