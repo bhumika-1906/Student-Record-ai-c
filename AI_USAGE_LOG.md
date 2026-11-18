@@ -1,4 +1,4 @@
-# AI Usage Log
+# AI Documentation
 
 * **Date:** 18 November 2026
 * **Project Title:** Student Record And Result Management System in C
@@ -18,11 +18,13 @@ I used ChatGPT as a learning assistant to help me refine my C programming projec
 
 ## 2.  Prompts  Sent to the AI
 
-  *"My C program keeps skipping the student's name input after I enter the SAP ID. How can I clear the input buffer so scanf doesn't skip fields?"*
-  *"I'm writing a CGPA calculation function. Some students have only finished 2 semesters, but the array holds 8 semesters. How can I make sure getCgpa ignores semesters marked as 0.0 so the average doesn't drop?"*
-  *"Suggest four different academic categories and advice statements based on CGPA thresholds (like Excellent, Good, etc.) that I can implement natively using a standard C if-else structure."*
+  *1."My C program keeps skipping the student's name input after I enter the SAP ID. How can I clear the input buffer so scanf doesn't skip fields?"*
 
-  *"How do I write a basic nested-loop bubble sort to swap whole Student structures in C, both numerically by SAP ID and alphabetically by Name?"*
+  *2."I'm writing a CGPA calculation function. Some students have only finished 2 semesters, but the array holds 8 semesters. How can I make sure getCgpa ignores semesters marked as 0.0 so the average doesn't drop?"*
+ 
+  *3."Suggest four different academic categories and advice statements based on CGPA thresholds (like Excellent, Good, etc.) that I can implement natively using a standard C if-else structure."*
+
+  *4."How do I write a basic nested-loop bubble sort to swap whole Student structures in C, both numerically by SAP ID and alphabetically by Name?"*
 
 ---
 
@@ -40,7 +42,7 @@ I used ChatGPT as a learning assistant to help me refine my C programming projec
 
 I worked with the AI to map out a clear, distinct advice matrix. I implemented these ranges natively in my `displayStudent` function:
 
-| CGPA Range | Performance Tier | Message Displayed to Student |
+| CGPA Range | Performance  | Message Advice to Student |
 |:---|:---|:---|
 | **9.00 to 10.00** | Excellent Performance | *Excellent performance - Maintain your current study pattern!* |
 | **7.50 to 8.99** | Good Performance | *Good performance - Try focusing on areas with lower SGPA.* |
